@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v888
+print("Wassup Buddy!! v888");
